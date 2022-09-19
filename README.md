@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnu05&label=Profile%20views&color=0e75b6&style=flat" alt="bishnu05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janakigouda&label=Profile%20views&color=0e75b6&style=flat" alt="janakigouda" /> </p>
 
 - 🔭 I’m currently working on **Typescript**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **bishnugorai061999@gmail.com**
+- 📫 How to reach me **janugouda1008@gmail.com**
 
 - 📄 Know about my experiences:- Resume
 
