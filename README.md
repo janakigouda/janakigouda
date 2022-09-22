@@ -7,7 +7,11 @@
 
 <h1 align="center">Hi 👋, I'm Janaki Kangalgouda</h1>
 
-<img align="right" alt="Coding" width="200" padding-right="30" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<!-- <img align="right" alt="Coding" width="200" padding-right="30" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi
+f"/>  -->
+
+  <img     src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" width="500" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakigouda&label=Profile%20views&color=0e75b6&style=flat" alt="janakigouda" /> </p>
 
