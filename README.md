@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Janaki Kangalgouda</h1>
 
-<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img align="right" alt="Coding" width="200" margin-left="30px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakigouda&label=Profile%20views&color=0e75b6&style=flat" alt="janakigouda" /> </p>
 
