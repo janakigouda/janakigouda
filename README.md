@@ -113,12 +113,11 @@
 ## 📊 My Github Stats
 
 <p align="left"> 
-![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=janakigouda&show_icons=true&theme=radical) 
-
+<img src="https://github-readme-stats.vercel.app/api?username=janakigouda&show_icons=true&theme=radical" alt="janakigouda" />
 </p>
 
 <p align="right" >
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janakigouda&theme=radical) 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=janakigouda&theme=radical" alt="janakigouda"/> 
 </p>
 </br>
 
