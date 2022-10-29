@@ -8,23 +8,32 @@
 
 <h1 align="center">Hi 👋, I'm Janaki Kangalgouda</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi
-f"/> 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/abe1c8759427e49cbbc2a73970c638bdcfd407b4fe2659001c02a38057999f89/68747470733a2f2f7777772e626163616e6379746563686e6f6c6f67792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30312f52656163742d6a732d646576656c6f7065722d6d696e2e706e67"/> 
 <!-- 
   <img   align="right"   src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" width="500" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" /> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakigouda&label=Profile%20views&color=0e75b6&style=flat" alt="janakigouda" /> </p>
 
-- 🔭 I’m currently working on **Typescript**
+- 🔭 I’m currently working on **Advance NodeJS and ReactJS**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack development**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **janugouda1008@gmail.com**
 
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1QYnZzvWgHSURglhnAWdl3cT-ArKvWClm/view" alt="resume">Resume</a>
+
+- 🧷 My Portfolio :- <a href="https://janakigouda.github.io/JK_Portfolio/" alt="portfolio" ><Portfolio</a> 
+
+- 👯 Group Project  [Bitrix24 Website - Clone](https://github.com/Hashal890/Betrix24-Clone)
+
+- 👯 Group Project  [Big-Basket- Clone](https://github.com/janakigouda/spotless-wing-656)
+
+- 👯 Group Project  [AppleTv - Clone](https://github.com/arnab9593/appletv) 
+    
+- 🔭 Individual Project [Cows-on-cloud Website](https://github.com/janakigouda/cows-on-cloud-website)
 
 - ⚡ Fun fact **I am funny**
 
