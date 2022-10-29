@@ -112,13 +112,8 @@
 
 ## 📊 My Github Stats
 
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=janakigouda&show_icons=true&theme=radical" alt="janakigouda" />
-</p>
-
-<p align="right" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=janakigouda&theme=radical" alt="janakigouda"/> 
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=janakigouda&show_icons=true&theme=radical" alt="janakigouda" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janakigouda&theme=radical" alt="janakigouda"/> 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janakigouda&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
