@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1QYnZzvWgHSURglhnAWdl3cT-ArKvWClm/view" alt="resume">Resume</a>
 
-- 🧷 My Portfolio :- <a href="https://janakigouda.github.io/JK_Portfolio/" alt="portfolio" ><Portfolio</a> 
+- 🧷 My Portfolio :- <a href="https://janakigouda.github.io/JK_Portfolio/" alt="portfolio" >Portfolio</a> 
 
 - 👯 Group Project  [Bitrix24 Website - Clone](https://github.com/Hashal890/Betrix24-Clone)
 
