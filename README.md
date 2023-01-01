@@ -111,7 +111,7 @@
 </p>
 
 ## 📊 My Github Stats
-<img align="center" width="90%" src="https://activity-graph.herokuapp.com/graph?username=janakigouda&theme=github" height ="250"/>
+<!-- <img align="center" width="90%" src="https://activity-graph.herokuapp.com/graph?username=janakigouda&theme=github" height ="250"/> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=janakigouda&show_icons=true&theme=radical" alt="janakigouda" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janakigouda&theme=radical" alt="janakigouda"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janakigouda&layout=compact&text_color=daf7dc&bg_color=151515" alt="janakigouda" />
