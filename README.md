@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **janugouda1008@gmail.com**
 
-- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1QYnZzvWgHSURglhnAWdl3cT-ArKvWClm/view" alt="resume">Resume</a>
+<!-- - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1QYnZzvWgHSURglhnAWdl3cT-ArKvWClm/view" alt="resume">Resume</a> -->
 
 - 🧷 My Portfolio :- <a href="https://janakigouda.github.io/JK_Portfolio/" alt="portfolio" >Portfolio</a> 
 
