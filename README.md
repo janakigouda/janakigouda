@@ -40,10 +40,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/janaki-kangalgouda-809936169/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge" tarhet="_blank"/>
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge" target="_blank"/>
     </a>
 <a href="https://www.hackerrank.com/janakikangalgou1?hr_r=1" target="blank">
-    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=green" alt="hackerrank Badge" tarhet="_blank"/>
+    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=green" alt="hackerrank Badge" target="_blank"/>
     </a>
 </p>
 
