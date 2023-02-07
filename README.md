@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** 
 
 - 📫 How to reach me **janugouda1008@gmail.com**
 
